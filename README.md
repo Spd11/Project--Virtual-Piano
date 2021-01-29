@@ -5,7 +5,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/eunai/Virtual-Piano">
+  <a href="https://github.com/Spd11/Project--Virtual-Piano">
     <h1 align="center">🎹</h1>
   </a>
 
