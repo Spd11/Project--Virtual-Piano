@@ -53,7 +53,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [forks-shield]: https://img.shields.io/github/forks/eunai/virtual-piano.svg?style=flat-square
 [forks-url]: https://github.com/eunai/virtual-piano/network/members
 [stars-shield]: https://img.shields.io/github/stars/eunai/virtual-piano.svg?style=flat-square
-[stars-url]: https://github.com/eunai/virtual-piano/stargazers
+[stars-url]: https://github.com/Spd11/Project--Virtual-Piano/stargazers
 [issues-shield]: https://img.shields.io/github/issues/eunai/virtual-piano.svg?style=flat-square
 [issues-url]: https://github.com/eunai/virtual-piano/issues
 [license-shield]: https://img.shields.io/github/license/eunai/virtual-piano.svg?style=flat-square
