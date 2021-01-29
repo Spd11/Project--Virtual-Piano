@@ -49,7 +49,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/eunai/virtual-piano.svg?style=flat-square
-[contributors-url]: https://github.com/eunai/virtual-piano/graphs/contributors
+[contributors-url]: https://github.com/Spd11/Project--Virtual-Piano/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/eunai/virtual-piano.svg?style=flat-square
 [forks-url]: https://github.com/eunai/virtual-piano/network/members
 [stars-shield]: https://img.shields.io/github/stars/eunai/virtual-piano.svg?style=flat-square
