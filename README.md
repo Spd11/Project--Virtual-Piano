@@ -11,13 +11,13 @@
 
   <h3 align="center">Virtual Piano</h3>
 
-  <p align="center">A JetBrains Academy Project</p>
+  
   
   <p align="center">Use HTML, CSS, & JS to play piano sound on key-press.</p>
 
 ## About
 
-[![Product Name Screen Shot][product-screenshot]](https://eunai.github.io/Virtual-Piano/)
+[![Product Name Screen Shot][product-screenshot]](https://spd11.github.io/Project--Virtual-Piano/)
 
 I've had a lot of fun during this project. I'm currently studying HTML, CSS, & JS together.
 This raised my interest into a learning a programming language alongside Javascript.
