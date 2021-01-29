@@ -48,14 +48,14 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/eunai/virtual-piano.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/Spd11/Project--Virtual-Piano.svg?style=flat-square
 [contributors-url]: https://github.com/Spd11/Project--Virtual-Piano/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/eunai/virtual-piano.svg?style=flat-square
-[forks-url]: https://github.com/eunai/virtual-piano/network/members
-[stars-shield]: https://img.shields.io/github/stars/eunai/virtual-piano.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/Spd11/Project--Virtual-Piano.svg?style=flat-square
+[forks-url]: https://github.com/Spd11/Project--Virtual-Piano/network/members
+[stars-shield]: https://img.shields.io/github/stars/Spd11/Project--Virtual-Piano.svg?style=flat-square
 [stars-url]: https://github.com/Spd11/Project--Virtual-Piano/stargazers
-[issues-shield]: https://img.shields.io/github/issues/eunai/virtual-piano.svg?style=flat-square
-[issues-url]: https://github.com/eunai/virtual-piano/issues
-[license-shield]: https://img.shields.io/github/license/eunai/virtual-piano.svg?style=flat-square
-[license-url]: https://github.com/eunai/virtual-piano/blob/master/LICENSE.txt
+[issues-shield]: https://img.shields.io/github/issues/Spd11/Project--Virtual-Piano.svg?style=flat-square
+[issues-url]: https://github.com/Spd11/Project--Virtual-Piano/issues
+[license-shield]: https://img.shields.io/github/license/Spd11/Project--Virtual-Piano.svg?style=flat-square
+[license-url]: https://github.com/Spd11/Project--Virtual-Piano/blob/master/LICENSE.txt
 [product-screenshot]: https://puu.sh/Gqkia.png
