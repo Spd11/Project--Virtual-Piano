@@ -58,4 +58,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-url]: https://github.com/Spd11/Project--Virtual-Piano/issues
 [license-shield]: https://img.shields.io/github/license/Spd11/Project--Virtual-Piano.svg?style=flat-square
 [license-url]: https://github.com/Spd11/Project--Virtual-Piano/blob/master/LICENSE
-[product-screenshot]: https://puu.sh/Gqkia.png
+[product-screenshot]: https://i.imgur.com/PaZ5Fiq.jpeg
